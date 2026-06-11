@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 
           System.out.println ("======================================");
-            System.out.println ("|Conversor de Fahrenheit para Celcius|");
+            System.out.println ("|Conversor de Fahrenheit para Celsius|");
               System.out.println ("======================================");
 
                System.out.println ("|Informe a temperatura em Fahrenheit:|");
@@ -17,7 +17,7 @@ import java.util.Scanner;
                double C = ( F - 32 ) / 1.8;
 
                 System.out.printf ("A temperatura em Celsius é: %.1f°c%n " , C);
-                System.out.print ("|_________________________________|");
+                 System.out.print ("|_________________________________|");
 
                   scanner.close();
 
